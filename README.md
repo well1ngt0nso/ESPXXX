@@ -5,5 +5,5 @@
 
 
 ## ESQUEMÁTICO ESP8266 NODEMCU V3 CH3340 / SCHEMATIC ESP8266 NODE MCU V3 CH340 
-[pdf >> nodemcu-v3-ch340-schematics.pdf](https://github.com/user-attachments/files/17966301/nodemcu-v3-ch340-schematics.pdf)
+[PDF >> nodemcu-v3-ch340-schematics.pdf](https://github.com/user-attachments/files/17966301/nodemcu-v3-ch340-schematics.pdf)
 ![nodemcu-v3-ch340-schematics](https://github.com/user-attachments/assets/304bcd79-f4a5-4874-b02a-bf327d49bbe7)
